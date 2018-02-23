@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #be1e2d;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <title>stop</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <circle id="details" class="cls-2" cx="96.49" cy="94.54" r="76.9"/>
+  <text class="cls-3" transform="translate(29.63 112.62)">S<tspan class="cls-4" x="29.58" y="0">T</tspan><tspan x="57.78" y="0">OP</tspan></text>
+</svg>

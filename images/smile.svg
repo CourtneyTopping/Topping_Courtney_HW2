@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffde17;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>smile</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <path id="mouth" class="cls-2" d="M342.67,318.09h99.84s-6.87,40.08-35.25,45.83-39.36,0-39.36,0S335,345.52,342.67,318.09Z" transform="translate(-298.86 -209.35)"/>
+  <ellipse id="eye2" class="cls-2" cx="67.55" cy="70.33" rx="18.26" ry="14.26"/>
+  <ellipse id="eye1" class="cls-2" cx="116.29" cy="71.35" rx="18.26" ry="14.26"/>
+</svg>

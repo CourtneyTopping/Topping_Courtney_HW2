@@ -1,0 +1,44 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 187.91 187.91">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="93.95" y1="185.91" x2="93.95" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0.31" stop-color="#f3903f"/>
+      <stop offset="0.72" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="21.44" y1="87.4" x2="166.47" y2="87.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.08" stop-color="#fee72e"/>
+      <stop offset="0.25" stop-color="#fed51b"/>
+      <stop offset="0.42" stop-color="#fdca10"/>
+      <stop offset="0.59" stop-color="#fdc70c"/>
+      <stop offset="0.99" stop-color="#f3903f"/>
+    </linearGradient>
+  </defs>
+  <title>star</title>
+  <circle id="background" class="cls-1" cx="93.95" cy="93.95" r="91.95"/>
+  <polygon id="star" class="cls-2" points="93.95 18.44 116.36 63.84 166.47 71.12 130.21 106.46 138.77 156.37 93.95 132.81 49.14 156.37 57.7 106.46 21.44 71.12 71.55 63.84 93.95 18.44"/>
+  <path id="highlight" class="cls-3" d="M395.47,256.19c1.29,2.74,9,8.78,9,16.46" transform="translate(-301.52 -211.82)"/>
+</svg>

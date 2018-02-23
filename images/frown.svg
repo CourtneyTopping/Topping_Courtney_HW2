@@ -1,0 +1,49 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffde17;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 10px;
+      }
+
+      .cls-4 {
+        stroke: #27aae1;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>frown</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <circle id="eyes2" class="cls-2" cx="70.98" cy="62.77" r="15.88"/>
+  <circle id="eyes1" class="cls-2" cx="114.57" cy="62.77" r="15.88"/>
+  <path id="frown" class="cls-3" d="M348.68,359s43.63-101.25,80.68,0" transform="translate(-298.91 -209.13)"/>
+  <g id="details">
+    <line class="cls-4" x1="137.82" y1="78.65" x2="144.8" y2="96.49"/>
+    <line class="cls-4" x1="140.78" y1="102.05" x2="141.84" y2="121.18"/>
+    <line class="cls-4" x1="49.3" y1="80.79" x2="44.8" y2="98.63"/>
+    <line class="cls-4" x1="47.4" y1="104.18" x2="46.71" y2="123.31"/>
+  </g>
+</svg>

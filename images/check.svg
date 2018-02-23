@@ -1,0 +1,30 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2" y1="96.49" x2="190.99" y2="96.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#192b16"/>
+      <stop offset="0.14" stop-color="#1b4221"/>
+      <stop offset="0.34" stop-color="#1e5d2e"/>
+      <stop offset="0.55" stop-color="#207038"/>
+      <stop offset="0.76" stop-color="#217b3d"/>
+      <stop offset="0.99" stop-color="#217f3f"/>
+    </linearGradient>
+  </defs>
+  <title>check</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <path id="check" class="cls-2" d="M325.69,304.48a269.84,269.84,0,0,1,17.66,24.67,258.51,258.51,0,0,1,22.47,44.32,11.2,11.2,0,0,0,11.79,7,10.62,10.62,0,0,0,8.84-7c4.78-16.64,12.45-35.24,21.48-55.76C420.81,288.43,438,256.31,455.18,245a196,196,0,0,0-40.79,35.51A175.38,175.38,0,0,0,377.6,349a79.31,79.31,0,0,0-18.79-25.47A92.06,92.06,0,0,0,325.69,304.48Z" transform="translate(-298.96 -209.72)"/>
+</svg>

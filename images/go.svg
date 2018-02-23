@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8dc63f;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        font-size: 100px;
+        fill: #231f20;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+  </defs>
+  <title>go</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <text class="cls-2" transform="translate(28.45 126.33)">GO</text>
+</svg>

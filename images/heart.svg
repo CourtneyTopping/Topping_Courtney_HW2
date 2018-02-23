@@ -1,0 +1,39 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="316.06" y1="313.97" x2="464.76" y2="313.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee4c9b"/>
+      <stop offset="1" stop-color="#ee3382" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <title>heart</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <path id="heart" class="cls-2" d="M388.23,274.33s25.64-67.16,67.09,0-67.09,109.12-67.09,109.12S300.15,342.09,318.6,279.9,380.61,253.67,388.23,274.33Z" transform="translate(-293.91 -211.79)"/>
+  <path id="details" class="cls-3" d="M366.26,274.33s-18.76-17.71-26.34,15.08" transform="translate(-293.91 -211.79)"/>
+</svg>

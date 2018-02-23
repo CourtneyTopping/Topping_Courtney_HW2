@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+#siteCon
+{
+	width: 980px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	background-color: darkgray;
+	height: 80px;
+}
+
+h1
+{
+	padding-top: 10px;
+	padding-left: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 60px;
+}
+
+
+.container{
+  width: 48%;
+  display: inline-block;
+	margin: 20px 10px 20px 10px;
+}
+
+.container img {
+  display: block;
+  width: 100%;
+}
+
+h2
+{
+	padding-top: 10px;
+	padding-left: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+p
+{
+	padding-top: 10px;
+	padding-left: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+img:hover
+{
+	opacity: .5;
+}

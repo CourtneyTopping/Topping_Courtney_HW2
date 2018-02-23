@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.99 192.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #662d91;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>down</title>
+  <circle id="background" class="cls-1" cx="96.49" cy="96.49" r="94.49"/>
+  <polygon id="arrowDown" class="cls-2" points="96.65 152.28 152.96 102.59 117.05 102.59 117.05 36.15 74.55 36.15 74.55 104.39 41.02 104.39 96.65 152.28"/>
+  <polyline id="details" class="cls-3" points="151.96 119.35 97.6 166.64 40.02 119.35"/>
+</svg>
